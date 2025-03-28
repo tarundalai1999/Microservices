@@ -84,4 +84,4 @@ kubectl port-forward svc/prometheus 9090:9090
 - Open a Pull Request
 
 ## License
-Distributed under the [MIT License] {https://choosealicense.com/licenses/mit/}. See LICENSE for more information.
+Distributed under the [MIT License] (https://choosealicense.com/licenses/mit/). See LICENSE for more information.
