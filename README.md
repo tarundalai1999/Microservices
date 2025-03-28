@@ -65,10 +65,14 @@ kubectl get all
 ## Access Monitoring Tools
 
 # Grafana
+```bash
 kubectl port-forward svc/grafana 3000:3000
+```
 
 # Prometheus
+```bash
 kubectl port-forward svc/prometheus 9090:9090
+```
 
 ## Contributing
 # Contributions are welcome! Please follow these steps:
